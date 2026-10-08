@@ -9,7 +9,7 @@
     "@red-cup-engineering/activitypub-services-section": "0.8.1",
     "@red-cup-engineering/computer-content-engineering-services-section": "0.1.0",
     "@red-cup-engineering/computer-system-engine": "0.1.0",
-    "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "0.3.0",
+    "@red-cup-engineering/cryptographic-data-service": "workspace:*",
     "@red-cup-engineering/javascript-node-services-section": "0.3.0",
     "@red-cup-engineering/json-services-section": "1.0.0"
   },
