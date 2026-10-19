@@ -22,5 +22,9 @@
     "test/",
     "README.md",
     "package.json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/koios-news-schedule-delivery-activation-current.git"
+  }
 }
