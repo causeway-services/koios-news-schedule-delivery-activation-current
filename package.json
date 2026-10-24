@@ -6,11 +6,11 @@
     "koios-news-schedule-delivery-preflight": "./bin/koios-news-schedule-delivery-preflight.mjs"
   },
   "dependencies": {
-    "@red-cup-engineering/activitypub-services-section": "workspace:*",
+    "@red-cup-engineering/activitypub-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-system-engine": "0.1.0",
     "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
-    "@red-cup-engineering/javascript-node-services-section": "0.3.0",
-    "@red-cup-engineering/json-services-section": "1.0.0",
+    "@red-cup-engineering/javascript-node-engineering-services-section": "0.3.0",
+    "@red-cup-engineering/json-engineering-services-section": "1.0.0",
     "@red-cup-engineering/computer-content-address-engineering-services-section": "workspace:*"
   },
   "scripts": {
